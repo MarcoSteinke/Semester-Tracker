@@ -5,3 +5,9 @@
 ## 1. Einführung
 
 Eine einfache Webanwendung, mit welcher der Fortschritt von Klausurzulassungen interaktiv mitverfolgt werden soll
+
+## 2. Dependencies:
+
+Die in dem folgenden Screenshot angezeigten Dependencies werden genutzt:
+
+image::https://github.com/MarcoSteinke/Semester-Tracker/blob/main/image.png?raw=true[]
