@@ -19,12 +19,18 @@ und persönliche Module hinzufügen. Mit jeder neuen Abgabe kann dann die bisher
 - [ ] Authentifizierung über GitHub (Eher SPAM-Schutz)
 - [ ] Persistente Datenbank
 
-## 3. Dependencies:
+## 3. Contribution:
+
+Es dürfen gerne Pull-Requests gestellt werden. Dabei soll insgesamt auf den https://berlincodeofconduct.org/de/[Berlin Code of Conduct] geachtet werden.
+Außerdem ist es unerlässlich gängige Java Konventionen und Clean Code Prinzipien einzuhalten, da dies den Aufwand der Code Reviews für die einzelnen Pull Requests 
+erheblich reduziert.
+
+## 4. Dependencies:
 
 Die in dem folgenden Screenshot angezeigten Dependencies werden genutzt:
 
 image::https://github.com/MarcoSteinke/Semester-Tracker/blob/main/image.png?raw=true[]
 
-## 4. Lizenz:
+## 5. Lizenz:
 
 Informationen zu den Nutzungsbedingungen können https://github.com/MarcoSteinke/Semester-Tracker/blob/main/LICENSE[hier] entnommen werden.
