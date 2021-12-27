@@ -34,7 +34,7 @@ erheblich reduziert.
 
 Die in dem folgenden Screenshot angezeigten Dependencies werden genutzt:
 
-image::https://github.com/MarcoSteinke/Semester-Tracker/blob/main/image.png?raw=true[]
+
 
 ## 5. Lizenz:
 
