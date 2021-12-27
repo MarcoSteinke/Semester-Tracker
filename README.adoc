@@ -7,6 +7,11 @@
 Eine einfache Webanwendung, mit welcher der Fortschritt von Klausurzulassungen interaktiv mitverfolgt werden soll. Dabei können sich Studierende über Github anmelden
 und persönliche Module hinzufügen. Mit jeder neuen Abgabe kann dann die bisher erreicht Punktzahl aktualisiert und im Bezug zu der Zulassungsgrenze beobachtet werden.
 
+Dies soll mit Hilfe einer Spring Boot Webanwendung realisiert werden. Dies ist ein Projekt, welches sehr gerne von Studierenden genutzt werden kann, um auf der einen Seite das Verständnis von und dem Umgang mit Spring Boot fördern soll. 
+
+Für bereits erfahrenere Studierende, oder Studierende welche gerne an der Entwicklung dieses Tools beteiligt sein möchten, soll dieses Projekt allerdings auch die Möglichkeit
+bieten, Pull Requests zu stellen und tatsächlich effektiv an dem Projekt mitzuarbeiten!
+
 ## 2. Features:
 
 - [ ] Strukturierte und intiutive Webansicht
