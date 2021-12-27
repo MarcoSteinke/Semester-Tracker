@@ -4,7 +4,8 @@
 
 ## 1. Einführung
 
-Eine einfache Webanwendung, mit welcher der Fortschritt von Klausurzulassungen interaktiv mitverfolgt werden soll
+Eine einfache Webanwendung, mit welcher der Fortschritt von Klausurzulassungen interaktiv mitverfolgt werden soll. Dabei können sich Studierende über Github anmelden
+und persönliche Module hinzufügen. Mit jeder neuen Abgabe kann dann die bisher erreicht Punktzahl aktualisiert und im Bezug zu der Zulassungsgrenze beobachtet werden.
 
 ## 2. Dependencies:
 
