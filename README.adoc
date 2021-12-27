@@ -2,17 +2,28 @@
 
 # Semester-Tracker
 
-## 1. Einführung
+## 1. Einführung:
 
 Eine einfache Webanwendung, mit welcher der Fortschritt von Klausurzulassungen interaktiv mitverfolgt werden soll. Dabei können sich Studierende über Github anmelden
 und persönliche Module hinzufügen. Mit jeder neuen Abgabe kann dann die bisher erreicht Punktzahl aktualisiert und im Bezug zu der Zulassungsgrenze beobachtet werden.
 
-## 2. Dependencies:
+## 2. Features:
+
+- [ ] Hinzufügen von Modulen
+- [ ] Aktualisierung der Punktzahl
+- [ ] Übersicht aller Module
+- [ ] Übersicht aller Punktzahlen
+- [ ] Bearbeitung der Module
+- [ ] Sicherung der Pfade mit Security
+- [ ] Authentifizierung über GitHub (Eher SPAM-Schutz)
+- [ ] Persistente Datenbank
+
+## 3. Dependencies:
 
 Die in dem folgenden Screenshot angezeigten Dependencies werden genutzt:
 
 image::https://github.com/MarcoSteinke/Semester-Tracker/blob/main/image.png?raw=true[]
 
-## 3. Lizenz:
+## 4. Lizenz:
 
 Informationen zu den Nutzungsbedingungen können https://github.com/MarcoSteinke/Semester-Tracker/blob/main/LICENSE[hier] entnommen werden.
