@@ -11,3 +11,7 @@ Eine einfache Webanwendung, mit welcher der Fortschritt von Klausurzulassungen i
 Die in dem folgenden Screenshot angezeigten Dependencies werden genutzt:
 
 image::https://github.com/MarcoSteinke/Semester-Tracker/blob/main/image.png?raw=true[]
+
+## 3. Lizenz:
+
+Informationen zu den Nutzungsbedingungen können https://github.com/MarcoSteinke/Semester-Tracker/blob/main/LICENSE[hier] entnommen werden.
