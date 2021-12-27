@@ -9,6 +9,7 @@ und persönliche Module hinzufügen. Mit jeder neuen Abgabe kann dann die bisher
 
 ## 2. Features:
 
+- [ ] Strukturierte und intiutive Webansicht
 - [ ] Hinzufügen von Modulen
 - [ ] Aktualisierung der Punktzahl
 - [ ] Übersicht aller Module
