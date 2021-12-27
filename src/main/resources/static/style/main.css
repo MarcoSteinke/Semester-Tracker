@@ -1,0 +1,13 @@
+body {
+    background: #0e1124;
+    margin: auto;
+    text-align: center;
+}
+
+card {
+    background: #151942 !important;
+}
+
+h2 {
+    color: lightgray;
+}
