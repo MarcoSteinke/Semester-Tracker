@@ -1,0 +1,7 @@
+:toc:
+
+# Semester-Tracker
+
+## 1. Einführung
+
+Eine einfache Webanwendung, mit welcher der Fortschritt von Klausurzulassungen interaktiv mitverfolgt werden soll
